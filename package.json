@@ -1,0 +1,12 @@
+{
+  "name": "oneshot-todo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "シンプルなToDo管理サービス(依存パッケージなし)",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
